@@ -2,9 +2,10 @@ import { motion } from "framer-motion";
 
 function Skills() {
   const skills = {
-    Frontend: ["React", "HTML", "CSS", "JavaScript", "TailwindCSS"],
+    "Programming Languages": ["Java", "JavaScript", "C", "C++", "Python"],
+    Frontend: ["React", "HTML", "CSS", "TailwindCSS"],
     // Backend: ["Node.js", "Express.js"],
-    Database: [/*{MongoDB"}, */ "MySQL"],
+    Database: [/*"MongoDB", */ "MySQL"],
     Tools: ["Git", "Github", "VS Code"],
     DSA: ["Problem Solving", "Algorithm", "Data Structures"],
   };
